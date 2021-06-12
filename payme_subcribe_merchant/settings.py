@@ -128,8 +128,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 PAYME_SETTINGS = {
     'DEBUG': False,  # True - test mode, False - production mode
-    'ID': '604b0885b04e9b6f30a9f9aa',
-    'SECRET_KEY': 'AcBFnxpXE&8f9#7gbIrUXse1Ntx&mrIgOTMN',
+    'ID': '',
+    'SECRET_KEY': '',
     'ACCOUNTS': {
         'KEY_1': 'order_id',
         'KEY_2': '',
